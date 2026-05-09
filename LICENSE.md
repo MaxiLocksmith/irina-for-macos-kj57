@@ -1,4 +1,4 @@
-
+Enhance Irina for macOS with Irina for macOS top Extension: duplicate-finder & clipboard-manager, the #1 extension. Includes duplicate-finder and clipboard-manager for a smoother
 
 
 
